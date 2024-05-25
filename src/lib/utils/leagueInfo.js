@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>ABC7FFL was formed in the late spring of 2024 by 10 members whose roots are based in various locations but have found a new home in the DMV area. Team managers in this league are comprised of current and former production members of WJLA.</p>
+  <p>7 FANTASY is a new fantasy football league born in mid 2024. Team managers are comprised of WJLA employees. On this site, team managers can see various stats and updates including but not limited to an easy to navigate trade and waiver history, season power rankings, accolades, and of course, the league consititution. Stay tuned for more updates as we get closer to the 2024-2025 NFL season.</p>
   
 `;
 
