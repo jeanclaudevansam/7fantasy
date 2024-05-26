@@ -7,6 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1I-FwtGP0r8?si=QSJxMmC1qyCWDWEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <p>7 FANTASY is a new fantasy football league born in mid 2024. Team managers are comprised of WJLA employees. On this site, team managers can see various stats and updates including but not limited to an easy to navigate trade and waiver history, season power rankings, accolades, and of course, the league consititution. Stay tuned for more updates as we get closer to the 2024-2025 NFL season.</p>
   
 `;
