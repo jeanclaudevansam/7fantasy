@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <iframe src="https://free.timeanddate.com/countdown/i9e01nk3/n263/cf114/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tatCOUNTDOWN%20TO%20FANTASY%20DRAFT!/tac000/tptGOOD%20LUCK!!/tpc000/iso2024-09-03T18:45:00/bas7/bat5/bacaaa" allowtransparency="true" frameborder="0" width="462" height="203"></iframe>
-  <p>7 FANTASY is a new fantasy football league born in mid 2024. Team managers are comprised of WJLA employees. On this site, team managers can see various stats and updates including but not limited to an easy to navigate trade and waiver history, season power rankings, accolades, and of course, the league consititution. Stay tuned for more updates as we get closer to the 2024-2025 NFL season.</p>
+  <p>7 FANTASY is a new fantasy football league born in mid 2024. Team managers are comprised of WJLA employees. On this site, team managers can track various stats and updates including but not limited to an easy to navigate trade and waiver history, season power rankings, accolades, and of course, the league consititution. All information is compiled from Sleeper, where our league lives. Stay tuned for more updates as we get closer to the 2024-2025 NFL season.</p>
   
 `;
 
