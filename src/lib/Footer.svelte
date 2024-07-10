@@ -124,6 +124,6 @@
 		</ul>
 	</div>
 	<!-- PLEASE DO NOT REMOVE THE COPYRIGHT -->
-	<span class="copyright">&copy; {year} 7 FANTASY
+	<span class="copyright">&copy; {year} FANTASY 7
 	<br />
 </footer>
