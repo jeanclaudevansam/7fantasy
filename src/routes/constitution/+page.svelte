@@ -1,6 +1,6 @@
 <script>
     import { dues } from '$lib/utils/helper';
-    let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
+    let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive;
     let two, twoOne, twoTwo, twoThree;
     let three, threeOne;
     let four, fourOne, fourTwo;
@@ -149,7 +149,7 @@
     
     <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
     
-    <p>18 Total Players</p>
+    <p>15 Total Players</p>
     
     <p class="underscore">Starters</p>
     <ul>
@@ -158,14 +158,13 @@
         <li>RB</li>
         <li>WR</li>
         <li>WR</li>
-        <li>TE</li>
         <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
+        <li>FLEX (RB/WR/TE)</li>
         <li>D/ST</li>
         <li>K</li>
     </ul>
     
-    <p>8 Bench players allowed</p>
+    <p>6 Bench players allowed</p>
 
     <p>2 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
     
@@ -189,12 +188,12 @@
     
     <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
-        <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, FAAB $, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment. The punishments will go as followed:</p>
+        <p>If any owners are suspected of accepting bribes/offering bribes to enhance their/another owners team via trade, trading any assets other than fantasy players, draft picks, or otherwise found guilty of engaging in any form of collusion*, all parties involved in the trade will be susceptible to punishment pending investation. The punishments will go as followed:</p>
         
         <ul>
-            <li>First Offense – Immediate reduction of FAAB budget by 80%</li>
+            <li>First Offense – Immediate warning issued by commissioner</li>
             <li>Second Offense – Immediate freeze on all transaction types for the next 18 weeks of regular season and playoff fantasy football games, including trades and waiver wire bids</li>
-            <li>Third Offense – A league meeting of all members not involved in any of the improper trades/activity in question will take place to discuss next steps.</li>
+            <li>Third Offense – A league meeting of members not involved in any of the improper trades/activity in question will take place to discuss next steps.</li>
         </ul>
 
         <p>All trades that are found guilty of collusion, will be reversed/denied. If the trade had affected the outcome of previous games, the results of those games will be revised.  </p>
@@ -211,26 +210,21 @@
     
     <h4 bind:this={oneTwoThree}>1.2.3 Trade Deadline</h4>
     <div class="subBlock">
-        <p>The trade deadline will be set for the Saturday of the week 11 games of the NFL season.</p>
+        <p>The trade deadline will be set for EoD on Tuesday of the week 11 games of the NFL season.</p>
     </div>
     
     <h4 bind:this={oneTwoFour}>1.2.4 Trade Restrictions</h4>
     <div class="subBlock">
-        <p>You will not be able to trade draft picks that are more than 3 drafts away. For example, during the 2021 season you cannot trade any picks in or after the 2025 draft. You may only trade FAAB $ from the current season.</p>
+        <p>You will not be able to trade draft picks that are more than 1 draft away. For example, during the 2024 season you cannot trade any picks in or after the 2025 draft.</p>
     </div>
     
     <h4 bind:this={oneTwoFive}>1.2.5 Veto/Trade Process</h4>
     <div class="subBlock">
-        <p>A total of 7 veto votes are required to veto a trade. Vetoes are only appropriate in instances of collusion or an egregious mismatch of value (i.e. CMC for a backup kicker). Not liking a trade does not warrant a veto.</p>
+        <p>A total of 5 veto votes are required to veto a trade. Vetoes are only appropriate in instances of collusion or an egregious mismatch of value (i.e. CMC for a backup kicker). Not liking a trade does not warrant a veto.</p>
     </div>
     
     
     
-    <h3 bind:this={oneThree}>1.3 Waiver Wire</h3>
-    
-    <p>FAAB Waiver wire system. Each team will begin the season with $100. $0 bids are allowed. Bids will process Thursdays and Sundays at 9AM EST.</p>
-
-    <p>FAAB budgets will reset each season in January.</p>
     
     
     <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
